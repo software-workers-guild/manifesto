@@ -22,7 +22,7 @@ When we create software, we remember something important: this is made by people
 
 Our software respects people's privacy. It respects their identities. It respects their abilities. It respects people.
 
-It also respects the planet. Software takes energy to build and maintain. We value green solutions that minimize the impact on our planet.
+It also respects the planet. Software takes energy to build and maintain. We value software that minimizes the impact on our planet.
 
 ### What software do we reject?
 
