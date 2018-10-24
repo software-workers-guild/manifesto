@@ -24,6 +24,6 @@ It also respects the planet. Software takes energy to build and maintain. We val
 
 ### What software do we reject?
 
-We are not interested in software that unfairly taxes the worker; that spies on users; that destroys privacy, relationships, and well-being; that is created for the sole purpose of making someone else rich. We do not support software that might be used by the military or to harrass migrants. We do not support software that marginalizes. We do not support software that makes it hard for the software worker to sleep at night or wastes their creative potential. 
+We are not interested in software that unfairly taxes the worker; that spies on users; that destroys privacy, relationships, and well-being; that is created for the sole purpose of making someone else rich. We do not support software that might be used by the military or to harrass migrants. We do not support software that marginalizes. We do not support software that makes it hard for the software worker to sleep at night or wastes her creative potential. 
 
 🌹💾🌱
