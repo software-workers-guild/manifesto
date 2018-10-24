@@ -18,5 +18,8 @@ We welcome all kinds of software. Static websites, complex websites, handy littl
 
 When we create software, we remember something important: this is made by people, for people. We like software that is well-designed, accessible, readable, and helps the user. We like software that is simply *fun* to build, that we can learn from and get excited about. We like software that has a positive impact on both the software worker and whoever her audience is. Maybe the software makes them happier, or it makes a tedious task easier. It has value outside of dollars and cents.
 
+Our software respects people's privacy. It respects their identities. It respects their abilities. It respects people.
+
 ## What software do we reject?
 
+We are not interested in software that unfairly taxes the worker; that spies on users; that destroys privacy, relationships, and well-being; that is created for the sole purpose of making someone else rich. We do not support software that might be used by the military or to harrass migrants. We do not support software that can't be used by those with disabilities. We do not support software that makes it hard for the software worker to sleep at night or wastes their creative potential.
