@@ -12,13 +12,11 @@ Software workers can be any gender, any race, of any ability or socio-economic b
 
 ## What software do we make?
 
-We welcome all kinds of software. Static websites, complex websites, handy little Python scripts, games, mobile apps, whatever. As long as it's made with code and designed with care, it's software we're interested in.
-
-No software is inferior to another as long as it subscribes to our values.
+We welcome all kinds of software. Static websites, complex websites, handy little Python scripts, games, mobile apps, whatever. As long as it's made with code, designed with care, and subscribes to our values, it's software we're interested in.
 
 ## What software do we value?
 
-When we create software, we remember something important: this is made by people, for people. We like software that is well-designed, accessible, readable, and helps the user. We like software that is simply *fun* to build, that we can learn from and get excited about. We like software that improves both the software worker and whoever her audience is. That might just mean that both she and her users are a little happier at the end of the day. To us, that's the mark of good software. 
+When we create software, we remember something important: this is made by people, for people. We like software that is well-designed, accessible, readable, and helps the user. We like software that is simply *fun* to build, that we can learn from and get excited about. We like software that has a positive impact on both the software worker and whoever her audience is. Maybe the software makes them happier, or it makes a tedious task easier. It has value outside of dollars and cents.
 
 ## What software do we reject?
 
